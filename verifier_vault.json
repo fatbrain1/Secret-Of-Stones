@@ -1,0 +1,22 @@
+[
+  {
+    "verifier_id": "human_001",
+    "culture": "Bedouin",
+    "emotion_resonance_profile": [
+      "longing",
+      "respect",
+      "farewell"
+    ],
+    "trust_score": 0.94
+  },
+  {
+    "verifier_id": "human_002",
+    "culture": "Japanese",
+    "emotion_resonance_profile": [
+      "awe",
+      "ritual",
+      "grace"
+    ],
+    "trust_score": 0.91
+  }
+]
